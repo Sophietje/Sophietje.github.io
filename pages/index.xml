@@ -2,27 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Sophie Lathouwers</title>
-        <link>https://Sophietje.github.io/pages/</link>
+        <link>https://www.sophielathouwers.nl/pages/</link>
         <description>Recent content in Pages on Sophie Lathouwers</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Sophietje.github.io/pages/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>About</title>
-        <link>https://Sophietje.github.io/pages/about/</link>
-        <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+        <lastBuildDate>Fri, 09 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sophielathouwers.nl/pages/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Theses</title>
+        <link>https://www.sophielathouwers.nl/pages/theses/</link>
+        <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://Sophietje.github.io/pages/about/</guid>
-        <description>&lt;p&gt;Hello! My name is Sophie Lathouwers, I&amp;rsquo;m currently a PhD candidate at the University of Twente. I&amp;rsquo;ve been working on several different projects, mostly related to specifications for deductive verifiers (a formal technique to reason about the correctness of programs).&lt;/p&gt;
+        <guid>https://www.sophielathouwers.nl/pages/theses/</guid>
+        <description>&lt;ul&gt;
+&lt;li&gt;Dissertation (2023): &lt;a class=&#34;link&#34; href=&#34;https://research.utwente.nl/en/publications/exploring-annotations-for-deductive-verification&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Exploring Annotations in Deductive Verification&lt;/a&gt;. Supervised by Marieke Huisman.&lt;/li&gt;
+&lt;li&gt;Master thesis (2018): &lt;a class=&#34;link&#34; href=&#34;https://purl.utwente.nl/essays/76554&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Reasoning About the Correctness of Sanitizers&lt;/a&gt;. Supervised by Marieke Huisman, Maarten Everts (University of Twente) and Martijn Hoogesteger (Northwave).&lt;/li&gt;
+&lt;li&gt;Bachelor thesis (2016): &amp;ldquo;Reducing Root Contention in Lazy Tree-Structured Databases&amp;rdquo;. Supervised by Marieke Huisman and Lesley Wevers (University of Twente).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>https://www.sophielathouwers.nl/pages/about/</link>
+        <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.sophielathouwers.nl/pages/about/</guid>
+        <description>&lt;p&gt;Hello! My name is Sophie Lathouwers, I&amp;rsquo;m currently working at (TNO)[https://www.tno.nl/en/] on topics related to Knowledge Graphs, Semantic Web, Ontologies and Software Development.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m passionate about many things including, but not limited to, program analysis, tool usability, developer tools, software development, open science, sharing knowledge, security, and learning new things.&lt;/p&gt;
 &lt;p&gt;My free time has lately been spent running, reading, figure skating, trying aerial silk, knitting, making Indian curry, sewing, and looking at cute animal pictures.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Alice &amp; Eve</title>
-        <link>https://Sophietje.github.io/pages/alice-eve/</link>
+        <link>https://www.sophielathouwers.nl/pages/alice-eve/</link>
         <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://Sophietje.github.io/pages/alice-eve/</guid>
+        <guid>https://www.sophielathouwers.nl/pages/alice-eve/</guid>
         <description>&lt;p&gt;I was co-chair of &lt;a class=&#34;link&#34; href=&#34;https://www.utwente.nl/aliceandeve2020&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Alice &amp;amp; Eve 2020&lt;/a&gt;, a free one day meeting to celebrate women in computing.
 For this event we also published a booklet describing several notable women in computing: &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.3990/1.9789036549554&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -36,10 +51,10 @@ We hope to build a similar tradition with Alice &amp;amp; Eve.&lt;/p&gt;
         </item>
         <item>
         <title>Awards</title>
-        <link>https://Sophietje.github.io/pages/awards/</link>
+        <link>https://www.sophielathouwers.nl/pages/awards/</link>
         <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://Sophietje.github.io/pages/awards/</guid>
+        <guid>https://www.sophielathouwers.nl/pages/awards/</guid>
         <description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Best student team&lt;/strong&gt; in VerifyThis 2019 together with Wytse Oortwijn.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;KHMW Internetscriptieprijs&lt;/strong&gt; in the category &amp;ldquo;Internet &amp;amp; Technology&amp;rdquo; for my master thesis. The KHMW (Royal Holland Society of Sciences &amp;amp; Humanities) awarded four prizes to the best master theses whose topic was related to the internet.&lt;/li&gt;
@@ -50,10 +65,10 @@ We hope to build a similar tradition with Alice &amp;amp; Eve.&lt;/p&gt;
         </item>
         <item>
         <title>ProVerB</title>
-        <link>https://Sophietje.github.io/pages/proverb/</link>
+        <link>https://www.sophielathouwers.nl/pages/proverb/</link>
         <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://Sophietje.github.io/pages/proverb/</guid>
+        <guid>https://www.sophielathouwers.nl/pages/proverb/</guid>
         <description>&lt;p&gt;ProVerB is a project aimed at explaining program verification tools to help people find their way around the available tools, clearly and briefly summarising the main purpose of each tool, its current status, relations to other tools, etc.&lt;/p&gt;
 &lt;p&gt;Browse the data at &lt;a class=&#34;link&#34; href=&#34;https://slebok.github.io/proverb/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://slebok.github.io/proverb/&lt;/a&gt;!&lt;/p&gt;
@@ -75,18 +90,18 @@ We hope to build a similar tradition with Alice &amp;amp; Eve.&lt;/p&gt;
         </item>
         <item>
         <title>Research</title>
-        <link>https://Sophietje.github.io/pages/projects/</link>
+        <link>https://www.sophielathouwers.nl/pages/projects/</link>
         <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://Sophietje.github.io/pages/projects/</guid>
+        <guid>https://www.sophielathouwers.nl/pages/projects/</guid>
         <description></description>
         </item>
         <item>
         <title>Specification Taxonomy</title>
-        <link>https://Sophietje.github.io/pages/specificationtaxonomy/</link>
+        <link>https://www.sophielathouwers.nl/pages/specificationtaxonomy/</link>
         <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://Sophietje.github.io/pages/specificationtaxonomy/</guid>
+        <guid>https://www.sophielathouwers.nl/pages/specificationtaxonomy/</guid>
         <description>&lt;p&gt;Deductive verification is a program verification technique where the user specifies how the program should behave. Tools then check whether the program adheres to the specification.
 Writing these specifications tends to take a lot of time and expertise. This limits the application of deductive verifiers in practice. This problem is sometimes called the &amp;ldquo;&lt;em&gt;specification bottleneck&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;In this research we have a detailed look at the &lt;em&gt;type of specifications&lt;/em&gt; that are required to verify a program with deductive verifiers.
@@ -104,10 +119,10 @@ This data sheds light on which annotations in the deductive verification process
         </item>
         <item>
         <title>Specification Translator</title>
-        <link>https://Sophietje.github.io/pages/specificationtranslator/</link>
+        <link>https://www.sophielathouwers.nl/pages/specificationtranslator/</link>
         <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://Sophietje.github.io/pages/specificationtranslator/</guid>
+        <guid>https://www.sophielathouwers.nl/pages/specificationtranslator/</guid>
         <description>&lt;p&gt;The Java Modelling Language (JML) has been proposed as a language that can be used to specify the behavioural details of Java programs.
 While JML annotations are used in some tools, deductive verifiers (for Java) are still very much developing and adding new types of specifications or ways to express things.
 As a result, many deductive verifiers for Java have a language that is based on, but slightly different, than JML.
@@ -115,27 +130,21 @@ This makes it difficult to reuse specifications which is unfortunate since writi
 &lt;p&gt;To alleviate this problem we have developed the Specification Translator.
 A tool that can translate JML-like specifications while taking into account the semantics of the specification languages.
 It currently supports Krakatoa, OpenJML and VerCors.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Theses</title>
-        <link>https://Sophietje.github.io/pages/theses/</link>
-        <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://Sophietje.github.io/pages/theses/</guid>
-        <description>&lt;ul&gt;
-&lt;li&gt;Master thesis (2018): &lt;a class=&#34;link&#34; href=&#34;https://purl.utwente.nl/essays/76554&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Reasoning About the Correctness of Sanitizers&lt;/a&gt;. Supervised by Marieke Huisman, Maarten Everts (University of Twente) and Martijn Hoogesteger (Northwave).&lt;/li&gt;
-&lt;li&gt;Bachelor thesis (2016): &amp;ldquo;Reducing Root Contention in Lazy Tree-Structured Databases&amp;rdquo;. Supervised by Marieke Huisman and Lesley Wevers (University of Twente).&lt;/li&gt;
+&lt;h4 id=&#34;useful-links&#34;&gt;Useful links&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Paper&lt;/strong&gt;: Lukas Armborst, Sophie Lathouwers and Marieke Huisman. 2024. &lt;em&gt;Joining Forces! Reusing Contracts for Deductive Verifiers Through Automatic Translation&lt;/em&gt;. In Proceedings of the 18th International Conference on Integrated Formal Methods (IFM 2023). Lecture Notes in Computer Science, vol 14300. Springer, Cham. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1007/978-3-031-47705-8_9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.1007/978-3-031-47705-8_9&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Artefact&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.4121/21e79524-40c4-4dc1-8108-94e7b6fc6d9f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.4121/21e79524-40c4-4dc1-8108-94e7b6fc6d9f&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
         <item>
         <title>VerCors</title>
-        <link>https://Sophietje.github.io/pages/vercors/</link>
+        <link>https://www.sophielathouwers.nl/pages/vercors/</link>
         <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://Sophietje.github.io/pages/vercors/</guid>
+        <guid>https://www.sophielathouwers.nl/pages/vercors/</guid>
         <description>&lt;p&gt;While I&amp;rsquo;ve not directly worked on VerCors, a lot of my research is inspired by the problems that are encountered here.
 Below you can find a link to VerCors&amp;rsquo; website as well as the poster I designed together with Lukas Armborst for this project.&lt;/p&gt;
 &lt;h4 id=&#34;useful-links&#34;&gt;Useful links&lt;/h4&gt;
