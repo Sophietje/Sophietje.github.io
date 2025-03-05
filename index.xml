@@ -7,30 +7,109 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sophielathouwers.nl/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://www.sophielathouwers.nl/pages/about/</link>
+        <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.sophielathouwers.nl/pages/about/</guid>
+        <description>&lt;p&gt;Hello! My name is Sophie Lathouwers, I&amp;rsquo;m currently working at &lt;a class=&#34;link&#34; href=&#34;https://www.tno.nl/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;TNO&lt;/a&gt; on topics related to Knowledge Graphs, Semantic Web, Ontologies and Software Development. Before starting at TNO, I worked on the topic of specifications in deductive verification (a specific program verification technique) as a PhD Candidate at the University of Twente.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m passionate about many things including, but not limited to, program analysis, tool usability, developer tools, software development, open science, sharing knowledge, security, and learning new things.&lt;/p&gt;
+&lt;p&gt;My free time has lately been spent running, reading, aerial acrobatics (silk, rope, hoop, hammock), knitting, sewing, and looking at cute animal pictures.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Knowledge Engine</title>
+        <link>https://www.sophielathouwers.nl/pages/knowledgeengine/</link>
+        <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.sophielathouwers.nl/pages/knowledgeengine/</guid>
+        <description>&lt;p&gt;The Knowledge Engine is a tool that improves the interoperability between systems (i.e. devices, platforms, apps, databases, interfaces, sensors) by exchanging data based on their semantics.&lt;/p&gt;
+&lt;p&gt;It combines several features that we have found to be essential in practice namely:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Supports distributed networks&lt;/li&gt;
+&lt;li&gt;Data is stored at the source, no central data storage server&lt;/li&gt;
+&lt;li&gt;Everyone has control over which data to share&lt;/li&gt;
+&lt;li&gt;Supports ways to interact with the network, either through querying, or through publish-subscribe interactions&lt;/li&gt;
+&lt;li&gt;Supports both query federation and data inference allowing users to intelligently combine data to get new insights&lt;/li&gt;
+&lt;li&gt;Supports dynamic networks where users/knowledge bases may change over time&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;useful-links&#34;&gt;Useful links&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Repository&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://github.com/tno/knowledge-engine&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/tno/knowledge-engine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Website&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://knowledge-engine.eu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://knowledge-engine.eu/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Documentation&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://docs.knowledge-engine.eu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://docs.knowledge-engine.eu/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>ProVerB</title>
+        <link>https://www.sophielathouwers.nl/pages/proverb/</link>
+        <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.sophielathouwers.nl/pages/proverb/</guid>
+        <description>&lt;p&gt;ProVerB is a project aimed at explaining program verification tools to help people find their way around the available tools, clearly and briefly summarising the main purpose of each tool, its current status, relations to other tools, etc.&lt;/p&gt;
+&lt;p&gt;Browse the data at &lt;a class=&#34;link&#34; href=&#34;https://slebok.github.io/proverb/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://slebok.github.io/proverb/&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;You can read more about how we set up this dataset in our MODELS &amp;lsquo;22 paper &amp;ldquo;&lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1145/3550355.3552426&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Modelling Program Verification Tools for Software Engineers&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;h4 id=&#34;useful-links&#34;&gt;Useful links&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Website&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://slebok.github.io/proverb/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://slebok.github.io/proverb/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Repository with data&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://github.com/Sophietje/Verification-Tool-Overview&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/Sophietje/Verification-Tool-Overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Paper&lt;/strong&gt;: Sophie Lathouwers and Vadim Zaytsev. 2022. &lt;em&gt;Modelling program verification tools for software engineers&lt;/em&gt;. In Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems (MODELS &amp;lsquo;22). Association for Computing Machinery, New York, NY, USA, 98–108. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1145/3550355.3552426&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.1145/3550355.3552426&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MODELS &amp;lsquo;22 Artefact&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.4121/20347950&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.4121/20347950&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Extended paper&lt;/strong&gt;: Sophie Lathouwers, Yujie Liu and Vadim Zaytsev. 2025. &lt;em&gt;Extract, Model, Refine: Improved Modelling of Program Verification Tools through Data Enrichment&lt;/em&gt;. In Software and Systems Modeling. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1007/s10270-024-01232-7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.1007/s10270-024-01232-7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Poster&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;proverb-poster.pdf&#34; &gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Survey of Specification Generators for Deductive Verifiers</title>
+        <link>https://www.sophielathouwers.nl/pages/specificationgenerationsurvey/</link>
+        <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.sophielathouwers.nl/pages/specificationgenerationsurvey/</guid>
+        <description>&lt;p&gt;Deductive verification is a program verification technique where the user specifies how the program should behave. Tools then check whether the program adheres to the specification.
+Writing these specifications tends to take a lot of time and expertise. This limits the application of deductive verifiers in practice. This problem is sometimes called the &amp;ldquo;&lt;em&gt;specification bottleneck&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;In this research we did a literature review to identify the various approaches that have been proposed to generate specifications/annotations for deductive verification.
+We specifically provide:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A survey of tools that generate formal specifications for Java programs&lt;/li&gt;
+&lt;li&gt;Analyse the impact of these tools on the overall specification writing process&lt;/li&gt;
+&lt;li&gt;Provide practical recommendations for future inference tool development&lt;/li&gt;
+&lt;li&gt;Provide a list of open research problems for specification inference.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;useful-links&#34;&gt;Useful links&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Paper&lt;/strong&gt;: Sophie Lathouwers and Marieke Huisman. 2024. &lt;em&gt;Survey of Annotation Generators for Deductive Verifiers&lt;/em&gt;. In Journal of Systems and Software, Vol. 211 ,111972. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1016/j.jss.2024.111972&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.1016/j.jss.2024.111972&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Artefact&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.4121/9c83933e-8406-4e49-ac4d-1f8bb55ed988&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.4121/9c83933e-8406-4e49-ac4d-1f8bb55ed988&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>Theses</title>
         <link>https://www.sophielathouwers.nl/pages/theses/</link>
         <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
         
         <guid>https://www.sophielathouwers.nl/pages/theses/</guid>
         <description>&lt;ul&gt;
-&lt;li&gt;Dissertation (2023): &lt;a class=&#34;link&#34; href=&#34;https://research.utwente.nl/en/publications/exploring-annotations-for-deductive-verification&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;Dissertation (2023): &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.3990/1.9789036558464&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Exploring Annotations for Deductive Verification&lt;/a&gt;. Supervised by Marieke Huisman.&lt;/li&gt;
 &lt;li&gt;Master thesis (2018): &lt;a class=&#34;link&#34; href=&#34;https://purl.utwente.nl/essays/76554&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Reasoning About the Correctness of Sanitizers&lt;/a&gt;. Supervised by Marieke Huisman, Maarten Everts (University of Twente) and Martijn Hoogesteger (Northwave).&lt;/li&gt;
 &lt;li&gt;Bachelor thesis (2016): &amp;ldquo;Reducing Root Contention in Lazy Tree-Structured Databases&amp;rdquo;. Supervised by Marieke Huisman and Lesley Wevers (University of Twente).&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>About</title>
-        <link>https://www.sophielathouwers.nl/pages/about/</link>
-        <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.sophielathouwers.nl/pages/about/</guid>
-        <description>&lt;p&gt;Hello! My name is Sophie Lathouwers, I&amp;rsquo;m currently working at &lt;a class=&#34;link&#34; href=&#34;https://www.tno.nl/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;TNO&lt;/a&gt; on topics related to Knowledge Graphs, Semantic Web, Ontologies and Software Development. Before starting at TNO, I worked on the topic of specifications in deductive verification (a specific program verification technique) as a PhD Candidate at the University of Twente.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m passionate about many things including, but not limited to, program analysis, tool usability, developer tools, software development, open science, sharing knowledge, security, and learning new things.&lt;/p&gt;
-&lt;p&gt;My free time has lately been spent running, reading, figure skating, trying aerial silk, knitting, making Indian curry, sewing, and looking at cute animal pictures.&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -57,35 +136,12 @@ We hope to build a similar tradition with Alice &amp;amp; Eve.&lt;/p&gt;
         
         <guid>https://www.sophielathouwers.nl/pages/awards/</guid>
         <description>&lt;ul&gt;
+&lt;li&gt;Runner-up award for &lt;strong&gt;2024 Minerva Informatics Equality Award&lt;/strong&gt; together with the rest of the Steering Committee of &amp;ldquo;Alice &amp;amp; Eve: a celebration of women in computing&amp;rdquo; (more info &lt;a class=&#34;link&#34; href=&#34;https://www.informatics-europe.org/society/minerva-informatics-equality-award/2024.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Best student team&lt;/strong&gt; in VerifyThis 2019 together with Wytse Oortwijn.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;KHMW Internetscriptieprijs&lt;/strong&gt; in the category &amp;ldquo;Internet &amp;amp; Technology&amp;rdquo; for my master thesis. The KHMW (Royal Holland Society of Sciences &amp;amp; Humanities) awarded four prizes to the best master theses whose topic was related to the internet.&lt;/li&gt;
 &lt;li&gt;Silver &lt;strong&gt;Young Talent Award&lt;/strong&gt; for my master thesis. Every year the KNVI (Royal Dutch Association for Computer Science) awards the best master theses within Computer Science.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Best Paper Award&lt;/strong&gt; for my bachelor thesis in the track for Software Engineering and Formal Techniques at the Twente Student Conference on IT.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>ProVerB</title>
-        <link>https://www.sophielathouwers.nl/pages/proverb/</link>
-        <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.sophielathouwers.nl/pages/proverb/</guid>
-        <description>&lt;p&gt;ProVerB is a project aimed at explaining program verification tools to help people find their way around the available tools, clearly and briefly summarising the main purpose of each tool, its current status, relations to other tools, etc.&lt;/p&gt;
-&lt;p&gt;Browse the data at &lt;a class=&#34;link&#34; href=&#34;https://slebok.github.io/proverb/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://slebok.github.io/proverb/&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;You can read more about how we set up this dataset in our MODELS &amp;lsquo;22 paper &amp;ldquo;&lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1145/3550355.3552426&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Modelling Program Verification Tools for Software Engineers&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
-&lt;h4 id=&#34;useful-links&#34;&gt;Useful links&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Website&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://slebok.github.io/proverb/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://slebok.github.io/proverb/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Repository with data&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://github.com/Sophietje/Verification-Tool-Overview&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/Sophietje/Verification-Tool-Overview&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Paper&lt;/strong&gt;: Sophie Lathouwers and Vadim Zaytsev. 2022. &lt;em&gt;Modelling program verification tools for software engineers&lt;/em&gt;. In Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems (MODELS &amp;lsquo;22). Association for Computing Machinery, New York, NY, USA, 98–108. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1145/3550355.3552426&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://doi.org/10.1145/3550355.3552426&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;MODELS &amp;lsquo;22 Artefact&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.4121/20347950&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://doi.org/10.4121/20347950&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Poster&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;proverb-poster.pdf&#34; &gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
