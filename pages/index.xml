@@ -6,25 +6,34 @@
         <description>Recent content in Pages on Sophie Lathouwers</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sophielathouwers.nl/pages/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>About</title>
-        <link>https://www.sophielathouwers.nl/pages/about/</link>
-        <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+        <lastBuildDate>Tue, 22 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sophielathouwers.nl/pages/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Awards</title>
+        <link>https://www.sophielathouwers.nl/pages/awards/</link>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
         
-        <guid>https://www.sophielathouwers.nl/pages/about/</guid>
-        <description>&lt;p&gt;Hello! My name is Sophie Lathouwers, I&amp;rsquo;m currently working at &lt;a class=&#34;link&#34; href=&#34;https://www.tno.nl/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;TNO&lt;/a&gt; on topics related to Knowledge Graphs, Semantic Web, Ontologies and Software Development. Before starting at TNO, I worked on the topic of specifications in deductive verification (a specific program verification technique) as a PhD Candidate at the University of Twente.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m passionate about many things including, but not limited to, program analysis, tool usability, developer tools, software development, open science, sharing knowledge, security, and learning new things.&lt;/p&gt;
-&lt;p&gt;My free time has lately been spent running, reading, aerial acrobatics (silk, rope, hoop, hammock), knitting, sewing, and looking at cute animal pictures.&lt;/p&gt;
+        <guid>https://www.sophielathouwers.nl/pages/awards/</guid>
+        <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Best ORKG Software&lt;/strong&gt; for our submission at &lt;a class=&#34;link&#34; href=&#34;https://2026-eu.semantics.cc/page/awards.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;SEMANTiCS 2026&lt;/a&gt;, related to our paper on &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.3233/SSW260021&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Distributed Knowledge-Driven Data Exchange and Validation Framework for Networked Smart Buildings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NWO Diversity &amp;amp; Inclusion Initiative Award&lt;/strong&gt; together with the rest of the Steering Committee of &amp;ldquo;Alice &amp;amp; Eve&amp;rdquo; (more info &lt;a class=&#34;link&#34; href=&#34;https://www.nwo.nl/en/winner-2025-steering-committee-alice-eve-ut-tud-tu/e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Runner-up award for &lt;strong&gt;2024 Minerva Informatics Equality Award&lt;/strong&gt; together with the rest of the Steering Committee of &amp;ldquo;Alice &amp;amp; Eve: a celebration of women in computing&amp;rdquo; (more info &lt;a class=&#34;link&#34; href=&#34;https://www.informatics-europe.org/society/minerva-informatics-equality-award/2024.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Best student team&lt;/strong&gt; in VerifyThis 2019 together with Wytse Oortwijn.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;KHMW Internetscriptieprijs&lt;/strong&gt; in the category &amp;ldquo;Internet &amp;amp; Technology&amp;rdquo; for my master thesis. The KHMW (Royal Holland Society of Sciences &amp;amp; Humanities) awarded four prizes to the best master theses whose topic was related to the internet.&lt;/li&gt;
+&lt;li&gt;Silver &lt;strong&gt;Young Talent Award&lt;/strong&gt; for my master thesis. Every year the KNVI (Royal Dutch Association for Computer Science) awards the best master theses within Computer Science.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Best Paper Award&lt;/strong&gt; for my bachelor thesis in the track for Software Engineering and Formal Techniques at the Twente Student Conference on IT.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
         <title>Knowledge Engine</title>
         <link>https://www.sophielathouwers.nl/pages/knowledgeengine/</link>
-        <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
         
         <guid>https://www.sophielathouwers.nl/pages/knowledgeengine/</guid>
-        <description>&lt;p&gt;The Knowledge Engine is a tool that improves the interoperability between systems (i.e. devices, platforms, apps, databases, interfaces, sensors) by exchanging data based on their semantics.&lt;/p&gt;
+        <description>&lt;p&gt;The Knowledge Engine is a tool that improves the interoperability between systems (i.e. devices, platforms, apps, databases, interfaces, sensors) by exchanging data based on their semantics which are described using ontologies.&lt;/p&gt;
 &lt;p&gt;It combines several features that we have found to be essential in practice namely:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Supports distributed networks&lt;/li&gt;
@@ -34,8 +43,16 @@
 &lt;li&gt;Supports both query federation and data inference allowing users to intelligently combine data to get new insights&lt;/li&gt;
 &lt;li&gt;Supports dynamic networks where users/knowledge bases may change over time&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;One of my favourite use cases so far has been at the &lt;a class=&#34;link&#34; href=&#34;https://electricitycampus.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Electricity Campus&lt;/a&gt;.
+Here we are connecting all kinds of energy-related services to reduce peak energy consumption and increase grid resilience on the park.
+This includes all devices and services like smart meters, solar panels, EV chargers, Energy Management Systems, dashboards and anomaly detection.
+You can read more about this use case in our SEMANTiCS &amp;lsquo;26 paper: &amp;ldquo;&lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.3233/SSW260021&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Distributed Knowledge-Driven Data Exchange and Validation Framework for Networked Smart Buildings&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
 &lt;h4 id=&#34;useful-links&#34;&gt;Useful links&lt;/h4&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Paper including use case at the Electricity Campus&lt;/strong&gt;: Xander Wilcke, Barry Nouwt, Sophie Lathouwers and Ronald Siebes. 2026. &lt;em&gt;Distributed Knowledge-Driven Data Exchange and Validation Framework for Networked Smart Buildings&lt;/em&gt;. Bridging the Gap Between Curated and Induced Semantics: Proceedings of the 22nd International Conference on Semantic Systems, 15-17 September 2026, Ghent, Belgium. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.3233/SSW260021&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.3233/SSW260021&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Repository&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://github.com/tno/knowledge-engine&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://github.com/tno/knowledge-engine&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Website&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://knowledge-engine.eu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -43,6 +60,18 @@
 &lt;li&gt;&lt;strong&gt;Documentation&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://docs.knowledge-engine.eu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://docs.knowledge-engine.eu/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>https://www.sophielathouwers.nl/pages/about/</link>
+        <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.sophielathouwers.nl/pages/about/</guid>
+        <description>&lt;p&gt;Hello! My name is Sophie Lathouwers, I&amp;rsquo;m currently working at &lt;a class=&#34;link&#34; href=&#34;https://www.tno.nl/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;TNO&lt;/a&gt; on topics related to Knowledge Graphs, Semantic Web, Ontologies and Software Development. Before starting at TNO, I worked on the topic of specifications in deductive verification (a specific program verification technique) as a PhD Candidate at the University of Twente.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m passionate about many things including, but not limited to, program analysis, tool usability, developer tools, software development, open science, sharing knowledge, security, and learning new things.&lt;/p&gt;
+&lt;p&gt;My free time has lately been spent running, reading, aerial acrobatics (silk, rope, hoop, hammock), knitting, sewing, and looking at cute animal pictures.&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -127,22 +156,6 @@ For this event we also published a booklet describing several notable women in c
 We hope to build a similar tradition with Alice &amp;amp; Eve.&lt;/p&gt;
 &lt;p&gt;A list of the previous editions of Alice &amp;amp; Eve can be found at &lt;a class=&#34;link&#34; href=&#34;https://utwente.nl/aliceandeve&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://utwente.nl/aliceandeve&lt;/a&gt;.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Awards</title>
-        <link>https://www.sophielathouwers.nl/pages/awards/</link>
-        <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.sophielathouwers.nl/pages/awards/</guid>
-        <description>&lt;ul&gt;
-&lt;li&gt;Runner-up award for &lt;strong&gt;2024 Minerva Informatics Equality Award&lt;/strong&gt; together with the rest of the Steering Committee of &amp;ldquo;Alice &amp;amp; Eve: a celebration of women in computing&amp;rdquo; (more info &lt;a class=&#34;link&#34; href=&#34;https://www.informatics-europe.org/society/minerva-informatics-equality-award/2024.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;here&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Best student team&lt;/strong&gt; in VerifyThis 2019 together with Wytse Oortwijn.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;KHMW Internetscriptieprijs&lt;/strong&gt; in the category &amp;ldquo;Internet &amp;amp; Technology&amp;rdquo; for my master thesis. The KHMW (Royal Holland Society of Sciences &amp;amp; Humanities) awarded four prizes to the best master theses whose topic was related to the internet.&lt;/li&gt;
-&lt;li&gt;Silver &lt;strong&gt;Young Talent Award&lt;/strong&gt; for my master thesis. Every year the KNVI (Royal Dutch Association for Computer Science) awards the best master theses within Computer Science.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Best Paper Award&lt;/strong&gt; for my bachelor thesis in the track for Software Engineering and Formal Techniques at the Twente Student Conference on IT.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
         </item>
         <item>
